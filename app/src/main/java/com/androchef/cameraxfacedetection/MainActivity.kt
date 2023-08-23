@@ -1,5 +1,6 @@
 package com.androchef.cameraxfacedetection
 
+import android.content.Context
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.net.Uri
@@ -13,6 +14,7 @@ import androidx.core.content.ContextCompat
 import com.androchef.cameraxfacedetection.camerax.CameraManager
 import com.androchef.cameraxfacedetection.camerax.GraphicOverlay
 import com.androchef.cameraxfacedetection.listener.ResultListener
+import com.google.firebase.FirebaseApp
 
 class MainActivity : AppCompatActivity(), ResultListener {
 
@@ -25,6 +27,8 @@ class MainActivity : AppCompatActivity(), ResultListener {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        FirebaseApp.initializeApp(this)
+
         previewView_finder = findViewById(R.id.previewView_finder)
         camera_capture_button = findViewById(R.id.camera_capture_button)
         graphicOverlay_finder = findViewById(R.id.graphicOverlay_finder)

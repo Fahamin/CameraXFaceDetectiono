@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "370840029182",
+    "firebase_url": "https://ftp-server-64309-default-rtdb.firebaseio.com",
+    "project_id": "ftp-server-64309",
+    "storage_bucket": "ftp-server-64309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370840029182:android:305e785e7f77bbb02a22af",
+        "android_client_info": {
+          "package_name": "com.androchef.cameraxfacedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370840029182-bjnl5thrnrb2g359e20ouq65bmsbc6mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9oZxTE5XJCpqppbTXW_Crh1s95edGg84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370840029182-bjnl5thrnrb2g359e20ouq65bmsbc6mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370840029182:android:b5850413d397d95d2a22af",
+        "android_client_info": {
+          "package_name": "com.fahamin.assessmentapphpl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370840029182-4kfu4o5ked0d8d060ikhm71qhoohlbrf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fahamin.assessmentapphpl",
+            "certificate_hash": "fb6c8a10c2d98dfd8e2f39fe6cb3a6cf17b7fb82"
+          }
+        },
+        {
+          "client_id": "370840029182-bjnl5thrnrb2g359e20ouq65bmsbc6mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9oZxTE5XJCpqppbTXW_Crh1s95edGg84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370840029182-bjnl5thrnrb2g359e20ouq65bmsbc6mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370840029182:android:95a4460ff2af53022a22af",
+        "android_client_info": {
+          "package_name": "com.movie.ftpserver.movieserver.movieapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370840029182-bjnl5thrnrb2g359e20ouq65bmsbc6mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9oZxTE5XJCpqppbTXW_Crh1s95edGg84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370840029182-bjnl5thrnrb2g359e20ouq65bmsbc6mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370840029182:android:4c558fad36eabe582a22af",
+        "android_client_info": {
+          "package_name": "com.securevpn.facedetactionattandencesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370840029182-bjnl5thrnrb2g359e20ouq65bmsbc6mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9oZxTE5XJCpqppbTXW_Crh1s95edGg84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370840029182-bjnl5thrnrb2g359e20ouq65bmsbc6mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
